@@ -4,7 +4,8 @@
   "description": "不可描述",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "xiaokui":"npm -v" 
   },
   "keywords": [
     "不可"
